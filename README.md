@@ -14,7 +14,7 @@ Install Dashboard by running either of the following:
 Clone the repository with the following command:
 
 ```bash
-git clone 
+git clone https://github.com/msafeerhussain/Admin-Dashboard.git
 ```
 
 Run in terminal this command:
